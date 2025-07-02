@@ -14,9 +14,9 @@
 
 
 3. **Colaboração:**
-   - Adicionar um colaborador ao seu repositório (um colega ou você mesmo). **[ ]**
-   - Ambos devem fazer um clone do repositório em suas máquinas locais. **[ ]**
-   - Realizar alterações, commits, abrir issues e pull requests. **[ ]**
+   - Adicionar um colaborador ao seu repositório (um colega ou você mesmo). **[X]**
+   - Ambos devem fazer um clone do repositório em suas máquinas locais. **[X]**
+   - Realizar alterações, commits, abrir issues e pull requests. **[X]**
 
 
 4. **Formatação com Markdown:**
