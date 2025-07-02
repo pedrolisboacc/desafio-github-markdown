@@ -7,10 +7,10 @@
 
 
 2. **Criar um Repositório:** 
-   - Crie um novo repositório no GitHub, nomeando-o como "desafio-github-markdown" ou outro nome. **[X]**
-   - Adicione seu README.md ao criar o repositório. **[X]**
-   - Utilize o Github.dev para editar seu projeto diretamente com o editor web do GitHub. **[X]**
-   - Deixe seu repositório público. **[X]**
+   - Criar um novo repositório no GitHub, nomeando-o como "desafio-github-markdown" ou outro nome. **[X]**
+   - Adicionar seu README.md ao criar o repositório. **[X]**
+   - Utilizar o Github.dev para editar seu projeto diretamente com o editor web do GitHub. **[X]**
+   - Deixar seu repositório público. **[X]**
 
 
 3. **Colaboração:**
@@ -24,3 +24,8 @@
    - Utilizar a linguagem Markdown para formatar informações sobre o desafio, instruções e uma breve descrição do seu projeto. **[X]**
 
 
+5. **Editar seu perfil principal:**
+   - Editar seu perfil principal com formatação Markdown. **[X]**
+
+  
+E pronto, Desafio de Projeto finalizado! :)
